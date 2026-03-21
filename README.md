@@ -1,2 +1,3 @@
-# advanced-fintech-app-skp3
+# Advanced Fintech App Skp3
+
 A financial technology application for modern development workflows.
